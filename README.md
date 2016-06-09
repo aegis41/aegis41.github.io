@@ -1,2 +1,2 @@
 # image-viewer
-A javascript solution to displaying 
+A javascript solution to displaying images from a list
