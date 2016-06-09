@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<g>
+	<rect x="20" y="40" style="fill:#231F20;" width="200" height="240"/>
+	<path style="fill:#FFFFFF;" d="M188,260H52c-6.6,0-12-5.4-12-12V72c0-6.6,5.4-12,12-12h136c6.6,0,12,5.4,12,12v176
+		C200,254.6,194.6,260,188,260z"/>
+	<rect x="60" y="85" style="fill:#D0D2D3;" width="125" height="15"/>
+	<rect x="60" y="130" style="fill:#D0D2D3;" width="125" height="15"/>
+	<rect x="60" y="175" style="fill:#D0D2D3;" width="125" height="15"/>
+	<rect x="60" y="220" style="fill:#D0D2D3;" width="125" height="15"/>
+	<rect x="180" y="120" style="fill:#231F20;" width="200" height="240"/>
+	<path style="fill:#FFFFFF;" d="M348,340H212c-6.6,0-12-5.4-12-12V152c0-6.6,5.4-12,12-12h136c6.6,0,12,5.4,12,12v176
+		C360,334.6,354.6,340,348,340z"/>
+	<rect x="220" y="165" style="fill:#BFD9F1;" width="125" height="15"/>
+	<rect x="220" y="210" style="fill:#BFD9F1;" width="125" height="15"/>
+	<rect x="220" y="255" style="fill:#BFD9F1;" width="125" height="15"/>
+	<rect x="220" y="300" style="fill:#BFD9F1;" width="125" height="15"/>
+	<polygon style="fill:#F48020;" points="350,220 290,220 290,200 230,240 290,285 290,260 350,260 	"/>
+	<polygon style="fill:#F48020;" points="55,180 115,180 115,200 175,160 115,115 115,140 55,140 	"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<g>
+	<rect x="40" y="40" style="fill:#231F20;" width="320" height="320"/>
+	<path style="fill:#FFFFFF;" d="M333,345H67c-6.6,0-12-5.4-12-12V67c0-6.6,5.4-12,12-12h266c6.6,0,12,5.4,12,12v266
+		C345,339.6,339.6,345,333,345z"/>
+	<rect x="55" y="100" style="fill:#231F20;" width="290" height="15"/>
+	<rect x="55" y="150" style="fill:#231F20;" width="290" height="15"/>
+	<rect x="55" y="200" style="fill:#231F20;" width="290" height="15"/>
+	<rect x="55" y="250" style="fill:#231F20;" width="290" height="15"/>
+	<rect x="55" y="165" style="fill:#A9C77E;" width="290" height="35"/>
+	<rect x="55" y="265" style="fill:#A9C77E;" width="290" height="35"/>
+	<rect x="55" y="300" style="fill:#231F20;" width="290" height="15"/>
+	<rect x="115.2" y="100" style="fill:#231F20;" width="9.8" height="245"/>
+	<rect x="220.2" y="100" style="fill:#231F20;" width="9.8" height="245"/>
+	<path style="fill:#2488C9;" d="M345,100H55V67c0-6.6,5.4-12,12-12h266c6.6,0,12,5.4,12,12V100z"/>
+	<path style="fill:#F48020;" d="M333,345H67c-6.6,0-12-5.4-12-12v-18h290v18C345,339.6,339.6,345,333,345z"/>
+</g>
+</svg>
