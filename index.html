@@ -6,6 +6,11 @@
 </head>
 <body>
     <h1>Image List</h1>
+    <label for="size-factor">Size Factor</label> 
+    <input type="number" min="8" max="32" step="8" value="8" name="size-factor" id="size-factor"><br>
+    <label for="number-of-images">Number of Images</label>
+    <input type="number" min="4" max="12" value="4" name="number-of-images" id="number-of-images"><br>
+    <button type="button" onclick="apply()">Apply</button><button type="button" onclick="reset()">Reset</button>
     <ol id="list"></ol>
 </body>
 <script src="test.js"></script>
