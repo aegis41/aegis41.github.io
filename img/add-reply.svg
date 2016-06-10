@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<g>
+	<polygon style="fill:#231F20;" points="345,260 145,260 65,340 65,260 25,260 25,60 345,60 	"/>
+	<path style="fill:#FFFFFF;" d="M317,240H138.3c-2.1,0-4.2,0.8-5.7,2.3l-40.8,40.8c-2.5,2.5-6.8,0.7-6.8-2.8l0-32.3c0-4.4-3.6-8-8-8
+		H53c-4.4,0-8-3.6-8-8V88c0-4.4,3.6-8,8-8h264c4.4,0,8,3.6,8,8v144C325,236.4,321.4,240,317,240z"/>
+	<circle style="fill:#FFFFFF;" cx="280" cy="230" r="85"/>
+	<path style="fill:#2488C9;" d="M280,135c-52.5,0-95,42.5-95,95s42.5,95,95,95s95-42.5,95-95S332.5,135,280,135z M280,303.1
+		c-40.4,0-73.1-32.7-73.1-73.1s32.7-73.1,73.1-73.1s73.1,32.7,73.1,73.1S320.4,303.1,280,303.1z"/>
+	<rect x="65" y="100" style="fill:#231F20;" width="245" height="10"/>
+	<rect x="65" y="135" style="fill:#231F20;" width="150" height="10"/>
+	<rect x="65" y="170" style="fill:#231F20;" width="120" height="10"/>
+	<rect x="65" y="205" style="fill:#231F20;" width="105" height="10"/>
+	<path style="fill:#2488C9;" d="M280,170v-10l-20,20l20,20v-10c22.1,0,40,17.9,40,40c0,22.1-17.9,40-40,40s-40-17.9-40-40h-20
+		c0,33.1,26.9,60,60,60s60-26.9,60-60S313.1,170,280,170z"/>
+</g>
+</svg>

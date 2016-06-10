@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<g>
+	<path d="M40,80v160h240V80H40z M265,213c0,6.6-5.4,12-12,12H67c-6.6,0-12-5.4-12-12V107c0-6.6,5.4-12,12-12h186c6.6,0,12,5.4,12,12
+		V213z"/>
+	<path style="fill:#FFFFFF;" d="M253,95H67c-6.6,0-12,5.4-12,12v106c0,6.6,5.4,12,12,12h186c6.6,0,12-5.4,12-12V107
+		C265,100.4,259.6,95,253,95z"/>
+	<path style="fill:#A9C77E;" d="M265,130H55v-23c0-6.6,5.4-12,12-12h186c6.6,0,12,5.4,12,12V130z"/>
+	<path style="fill:#F48020;" d="M115,135H73c-7.2,0-13,5.8-13,13v37.9c0,7.2,5.8,13,13,13H115c7.2,0,13-5.8,13-13V148
+		C128,140.8,122.2,135,115,135z"/>
+	<ellipse style="fill:#C3996B;" cx="94.4" cy="154.3" rx="13.1" ry="13.1"/>
+	<path style="fill:#2488C9;" d="M114,198.9v-13.5h-0.1c-1.1-10.1-9.4-18-19.5-18s-18.4,7.9-19.5,18h-0.1v13.5H114z"/>
+	<rect x="60" y="200" style="fill:#F48020;" width="70" height="10"/>
+	<rect x="75" y="105" style="fill:#231F20;" width="180" height="15"/>
+	<path d="M120,160v160h240V160H120z M345,293c0,6.6-5.4,12-12,12H147c-6.6,0-12-5.4-12-12V187c0-6.6,5.4-12,12-12h186
+		c6.6,0,12,5.4,12,12V293z"/>
+	<path style="fill:#FFFFFF;" d="M333,175H147c-6.6,0-12,5.4-12,12v106c0,6.6,5.4,12,12,12h186c6.6,0,12-5.4,12-12V187
+		C345,180.4,339.6,175,333,175z"/>
+	<path style="fill:#F48020;" d="M345,210H135v-23c0-6.6,5.4-12,12-12h186c6.6,0,12,5.4,12,12V210z"/>
+	<path style="fill:#26A9E0;" d="M195,215H153c-7.2,0-13,5.8-13,13v37.9c0,7.2,5.8,13,13,13H195c7.2,0,13-5.8,13-13V228
+		C208,220.8,202.2,215,195,215z"/>
+	<ellipse style="fill:#C3996B;" cx="174.4" cy="234.3" rx="13.1" ry="13.1"/>
+	<path style="fill:#F9EC31;" d="M194,278.9v-13.5h-0.1c-1.1-10.1-9.4-18-19.5-18c-10.1,0-18.4,7.9-19.5,18h-0.1v13.5H194z"/>
+	<rect x="140" y="280" style="fill:#26A9E0;" width="70" height="10"/>
+	<circle style="fill:#C3996B;" cx="323.2" cy="265.2" r="8.8"/>
+	<path style="fill:#F9EC31;" d="M336.3,295v-9h-0.1c-0.7-6.8-6.3-12-13.1-12c-6.8,0-12.4,5.3-13.1,12H310v9H336.3z"/>
+	<rect x="155" y="185" style="fill:#231F20;" width="180" height="15"/>
+	<rect x="220" y="220" style="fill:#231F20;" width="115" height="10"/>
+	<rect x="220" y="240" style="fill:#231F20;" width="115" height="10"/>
+	<rect x="220" y="260" style="fill:#231F20;" width="90" height="10"/>
+	<rect x="220" y="280" style="fill:#231F20;" width="80" height="10"/>
+	<rect x="140" y="140" style="fill:#231F20;" width="115" height="10"/>
+	<rect x="140" y="160" style="fill:#231F20;" width="115" height="10"/>
+</g>
+</svg>
