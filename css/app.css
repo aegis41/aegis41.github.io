@@ -68,3 +68,58 @@ h6 {
 .Container {
   margin: 1rem;
 }
+
+/**
+ * The `button` class is best applied to links and buttons.
+ */
+
+/**
+ * 1. Inherit text color from ancestor.
+ * 2. Inherit font styles from ancestor.
+ * 3. Prevent button text from being selectable.
+ */
+
+.Button {
+  background: transparent;
+  border-color: currentcolor;
+  border-style: solid;
+  border-width: 1px;
+  color: inherit; /* 1 */
+  cursor: pointer;
+  display: inline-block;
+  font: inherit; /* 2 */
+  margin: 0;
+  padding: 0.25rem 0.75rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none; /* 3 */
+}
+
+/**
+ * Work around a Firefox/IE bug where the transparent `button` background
+ * results in a loss of the default `button` focus styles.
+ */
+
+.Button:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+
+/**
+ * UI states
+ */
+
+.Button:hover,
+.Button:focus,
+.Button:active {
+  text-decoration: none;
+}
+
+/**
+ * Button modifier
+ */
+
+.Button--rounded {
+  border-radius: .125rem;
+}
